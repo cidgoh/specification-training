@@ -1,8 +1,8 @@
-# Specification Training Materials
+# Specification Training Materials (notes)
 
 Training materials about developing and applying data specifications. We use ontologies for a lot of examples but people shouldn't be limited to using them, though the principles should be reused. 
 
-Considerations
+## Considerations
 - What is a specification?
 - Starting Resources
 - Data need assessment
@@ -12,12 +12,12 @@ Considerations
   - need to have this understanding before you can map against and consider against existing standards. 
 - Standardize your terms (based on 10 simple rules paper)
   - Many of which should be broken into sublessons as individual rules cover several concepts.
+ 
+But having the individual lessons map to a master list of challenges and rules (and the asosciations between them whihc are not one to one) not only inform building the trianing materials but also metrics of evaluation as these rules/challenges are tied to FAIR and ontological principles. When we apply the rules we know what part of FAIR.OBO is being applied and can use this to help us define registry metrics.
 
 For reference, 10 simple rules for standarizing your terms:
 
 _note: a lot if not all of these rules also apply to developing fields. So perhaps the rules need to be simplified to be more reusable across both field and term components, and then narrower examples are provided for the hands-on cases for fields and terms._
-
-But having the individual lessons map to a master list of challenges and rules (and the asosciations between them whihc are not one to one) not only inform building the trianing materials but also metrics of evaluation as these rules/challenges are tied to FAIR and ontological principles. When we apply the rules we know what part of FAIR.OBO is being applied and can use this to help us define registry metrics.
 
 - Rule 1: Reuse Existing Terms
 - Rule 2: Keep Concepts Simple & Specific
