@@ -29,5 +29,6 @@ _note: a lot if not all of these rules also apply to developing fields. So perha
 
 Also have the FSCI course, which focuses on ontologizing picklists but has good hands on examples.
 
+## Emma's Specification development pipeline. 
+
 ![image](https://github.com/cidgoh/specification-training/assets/48695054/ccc3573e-eb38-480d-9e15-3ef5a537fff6)
-Emma's Specification development pipeline.
