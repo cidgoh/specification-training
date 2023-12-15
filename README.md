@@ -1,10 +1,23 @@
 # Specification Training Materials (notes)
 
+Last Update: 2023-12-15 Rhiannon & Charlie
+
 Training materials about developing and applying data specifications. We use ontologies for a lot of examples but people shouldn't be limited to using them, though the principles should be reused. 
+
+## Where to Start
+
+- The Rules (not just for standardizing terms, but across all stages/modules)
+  - How they apply to the challenges
+  - How are they FAIR / OBO compatible
+  - Knowing the above will how use these them to develope PHA4GE registry metrics to different results / scenarios
+- The different stages of the "spec pipeline"
+   - Boken up into modules
+   - Rules are reused across the modules, but the "hands-on" exercises/guidance will differ.
+   - Rhiannon has focused a lot of energy on "standardizing fields and terms" parts of the pipeline, but Charlie can take over diving in and drafting the manuscript (based on Emma's outline and collaboration) for improving data descriptions.
 
 ## Considerations
 - What is a specification?
-- Starting Resources
+- Starting Resources - i.e. what are the inputs/outputs of different modules?
 - Data need assessment
 - Data descriptions (which is a whole lesson/module in it's own)
 - Going from data descriptions to tabular data
