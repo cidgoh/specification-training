@@ -25,7 +25,9 @@ Training materials about developing and applying data specifications. We use ont
   - need to have this understanding before you can map against and consider against existing standards. 
 - Standardize your terms (based on 10 simple rules paper)
   - Many of which should be broken into sublessons as individual rules cover several concepts.
- 
+- The importance of consultation and consensus
+   
+
 But having the individual lessons map to a master list of challenges and rules (and the asosciations between them whihc are not one to one) not only inform building the trianing materials but also metrics of evaluation as these rules/challenges are tied to FAIR and ontological principles. When we apply the rules we know what part of FAIR.OBO is being applied and can use this to help us define registry metrics.
 
 ### For reference, 10 simple rules for standarizing your terms:
